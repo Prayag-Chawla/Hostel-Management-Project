@@ -1,7 +1,7 @@
 # Hostel-Management-Project
 
 # About
-This is a hostel management server-based project done by using various tech stacks, as MYSQL, PHP, CSS and HTML. This project is indeed a practical example of how things work in real life, just by upscaling. This project comes under the domain of software management, and we also used XAMPP software for initiating SQL server and needed terminals. Thir project is truely an impressive php work, along with an appealing UI.
+This is a hostel management server-based project done by using various tech stacks, as MYSQL, PHP, CSS, js and HTML. This project is indeed a practical example of how things work in real life, just by upscaling. This project comes under the domain of software management, and we also used XAMPP software for initiating SQL server and needed terminals. Thir project is truely an impressive php work, along with an appealing UI.
 
 The project was referenced from
 https://code-projects.org/hostel-management-site-using-php-source-code/#google_vignette 
